@@ -30,7 +30,7 @@ int main(void) {
 
 	if (gpio_output){
 		// Free gpio request memory
-		libsic_gpio_free(gpio_output);
+		libsoc_gpio_free(gpio_output);
 	}
 
 	return EXIT_SUCCESS;

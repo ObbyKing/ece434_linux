@@ -9,5 +9,7 @@ LED0	= "P9_12"
 GPIO.setup(LED0, GPIO.OUT)
 
 while 1:
-	GPIO.output(LED0, 1)
-	GPIO.output(LED0, 0)
+	GPIO.output(LED0, GPIO.HIGH)
+	time.sleep(0.5)
+	GPIO.output(LED0, GPIO.LOW)
+	time.sleep(0.5)
