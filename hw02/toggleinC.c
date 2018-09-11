@@ -23,9 +23,9 @@ int main(void) {
 	int i;
 	for(i = 0; i < 1000000; i++){
 		libsoc_gpio_set_level(gpio_output, HIGH);
-		usleep(100000);
+		usleep(5);
 		libsoc_gpio_set_level(gpio_output, LOW);
-		usleep(100000);
+		usleep(5);
 	}
 
 	if (gpio_output){
