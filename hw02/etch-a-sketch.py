@@ -43,20 +43,20 @@ class Sketch(object):
             pass
 
     def moveCursorUp(self):
-	if self.pos[1] > 0:
-		self.pos[1] -= 1
+    	if self.pos[1] > 0:
+    		self.pos[1] -= 1
 
     def moveCursorDown(self):
-	if self.pos[1] < self.height - 1:
-		self.pos[1] += 1
+    	if self.pos[1] < self.height - 1:
+    		self.pos[1] += 1
 
     def moveCursorLeft(self):
         if self.pos[0] > 0:
-		self.pos[0] -= 1
+		  elf.pos[0] -= 1
 
     def moveCursorRight(self):
-	if self.pos[0] < self.width - 1:
-		self.pos[0] += 1
+    	if self.pos[0] < self.width - 1:
+    		self.pos[0] += 1
 
     def main(self, stdscr):
 	GPIO.add_event_detect(button0, GPIO.HIGH, callback = moveCursorUp)
