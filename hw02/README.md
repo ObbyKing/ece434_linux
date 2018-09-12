@@ -1,5 +1,14 @@
 I used curses for etch-a-sketch but it should be preinstalled on the bone and you should be able to run in.
 
+My pin definitions are as follows
+
+buttonUp = P9_27
+buttonDown = P9_16
+buttonLeft = P9_17
+buttonRight = P9_18
+buttonQuit = P9_22
+buttonShake = P9_24
+
 Bash and Shell
 1) Max Voltage = 3 V, Min Voltage = 80 mV
 2) Period = 1 / f = 1 / 4.235 Hz = 0.236 s
