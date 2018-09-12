@@ -1,3 +1,5 @@
+I used curses for etch-a-sketch but it should be preinstalled on the bone and you should be able to run in.
+
 Bash and Shell
 1) Max Voltage = 3 V, Min Voltage = 80 mV
 2) Period = 1 / f = 1 / 4.235 Hz = 0.236 s
