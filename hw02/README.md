@@ -9,6 +9,12 @@ buttonRight = P9_18
 buttonQuit = P9_22
 buttonShake = P9_24
 
+buttonsAndLEDS.py is my python file to map buttons to LEDs.
+toggle.py and toggleinC.c are my programs used to toggle GPIO ports.
+etch-a-sketch.py is my python file used for etch-a-sketch.
+
+They all work according to the specifications.
+
 Bash and Shell
 1) Max Voltage = 3 V, Min Voltage = 80 mV
 2) Period = 1 / f = 1 / 4.235 Hz = 0.236 s
