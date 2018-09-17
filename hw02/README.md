@@ -49,3 +49,11 @@ C
 7) the period is not stable at all.
 8) Vi makes the period less stable
 9) I removed my unnecessary lines and it made it slightly more stable.
+
+
+========================
+Professor Yoder's Comments
+
+Looks good, but your data would be much clearer in a table.
+
+Score:9/10
