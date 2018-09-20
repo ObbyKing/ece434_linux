@@ -4,7 +4,7 @@ My GPIO ports are as follows:
 
 Button0 : P9_11, GPIO0_30, GPIO30
 Button1 : P9_15, GPIO1_16, GPIO48
-Led0 : P9_23, GPIO1_17, GPIO49
+Led0 : P8_28, GPIO2_24, GPIO88
 Led1 : P9_25, GPIO3_21, GPIO117
 
 Check the pictures folder to see my screenshots for the LCD problems. I had a few difficulties at first getting text displayed on Boris but I think it worked out well!
