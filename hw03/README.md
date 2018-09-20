@@ -14,3 +14,12 @@ config-pin P8_42 qep
 I ran etch-a-sketch.py and demoed it to Dr. Yoder. It worked correctly.
 
 I also added a clear button and a quit button to my project.
+
+
+
+========================
+Professor Yoder's Comments
+
+Looks good.  How are your temp sensors wired?
+
+Score:10/10
