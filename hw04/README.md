@@ -21,3 +21,13 @@ In order to make annotated_boris.png, I used the convert command in ImageMagick.
 The command was as follows: convert boris.png -background Khaki label: 'Boris the Dog' -size 1000x160 -gravity Center -append annotated_boris.png
 
 I attempted to get pygame working in class but there was tab indentation errors with the sample code given.
+
+========================
+Professor Yoder's Comments
+
+Looks good.  Did you try removing the usleep() in the toggle exercise?  I think it
+will run much faster.
+
+That's odd the pygame didn't work.  It worked for me.
+
+Score:10/10
