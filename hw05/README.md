@@ -27,3 +27,12 @@ I changed the pin numbers in part 3 from the default values to gpioLED = 48 and 
 With the help of Dr. Yoder I also made the button trigger on IRQF_TRIGGER_RISING and IRQF_TRIGGER_FALLING by or'ing them together in result.
 
 Dr. Yoder verified that the LKM worked correctly.
+
+========================
+Professor Yoder's Comments
+
+Looks good.  
+
+I don't see where you compiled a new kernel and got it installed.
+
+Score:  8/10
