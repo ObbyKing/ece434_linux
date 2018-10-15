@@ -11,3 +11,8 @@ Send Values on Release Only: Off
 Show Value: On
 
 This makes the LED change brightness by sliding the slider. I really enjoyed this assignment.
+
+========================
+Professor Yoder's Comments
+
+Score:  10/10

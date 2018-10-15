@@ -34,3 +34,10 @@ A low priority interrupt. In the figure it's the non critical IRQ.
 Because the IRQ's are now running in a thread, they can be preempted. So, if a high pripority IRQ thread fires, that can be scheduled immediately.
 
 This lecture is extremely techincal and a little difficult to follow. I sort of understand what is going on, but perhaps the lecture on Thursday will help reinforce the material.
+
+========================
+Professor Yoder's Comments
+
+Score:  10/10
+
+Try searching "linux mainline kernel"
