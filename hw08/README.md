@@ -1,0 +1,1 @@
+I ran the proper sample code. According to my chart, the PREEMPT_RT takes much longer to settle down than the NON-RT. This is because when I installed the proper version of the PREEMPT_RT kernel, I could not SSH into my bone. Instead, I installed the kernel that was in the instructions and ran the code on the kernel from the exercises.
