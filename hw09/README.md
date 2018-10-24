@@ -11,3 +11,10 @@ See tek00003 image to see the waveform for 5.5 Loop Unrolling for Better Perform
 See tek00004 image to see the waveform for 5.9 Read an Input at Regular Intervals. The code transfers the input to the output extremely quickly!
 
 
+========================
+Professor Yoder's Comments
+
+In part 5.3 I don't think it jitter, it's ringing.
+5.9, how quickly is it responding?
+
+Score:  10/10
