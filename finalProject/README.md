@@ -1,15 +1,5 @@
 ========= Installation =========
 
-=== xLights ===
+=== Setting up Falcon and xLights ===
 
-Go to this link https://www.adebenham.com/xlights-linux/ and download the latest image
-
-Run cmod +x ./{xLights_APP_IMAGE} to make it an executable
-
-Then do ./{xLights_APP_IMAGE} to run it!
-
-Alternatively, you can run the following commands 
-
-sudo add-apt-repository ppa:chris-debenham/xlights
-sudo apt-get update
-sudo apt-get install xlights
+Go to [this](https://markayoder.github.io/PRUCookbook/01case/case.html#case_rgb_matrix) link and go to section 1.4. This will describe how to properly install Falcon and xLights.
