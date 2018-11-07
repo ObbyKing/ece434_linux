@@ -4,6 +4,8 @@ This folder is used for internet setup.
 * USB_Ethernet - contains files to setup internet over USB.
 	* ipMasquerade.sh - shares the hosts internet
 	* pocketssh.sh - ssh file that starts and ssh session but starts sharing internet.
+	* setDNS.sh - Used by ipMasquerade.sh.
+	* setDate.sh - Used by ipMasquerade.sh.
 
 # USB Over Ethernet
 If you need internet on your pocket beagle without wifi this is an option you have.
