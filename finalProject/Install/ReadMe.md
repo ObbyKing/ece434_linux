@@ -18,6 +18,7 @@ Keep default settings then click write. Safely eject the sd card from windows th
 ## Expand SD Size
 By default we kept the image small to fit on most size sd cards. If you want more space plug in the sd card to falcon and plug it in to your computer. Navigate your webrowser to `192.168.7.2`.
 
-Click the `Status\Control` -> `FPP Settings` on the web interface. Next
+Click the `Status\Control` -> `FPP Settings` on the web interface. Next click the `Advanced Settings` at the bottom of the page. Then click `Grow Filesystem`. See pictures below.
 
-![alt text]( "Falcon Expand SD Card")
+![alt text](./Pictures/settings_page.png "Falcon Expand SD Card")
+![alt text](./Pictures/grow_fs.png "Grow File System")
