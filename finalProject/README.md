@@ -5,7 +5,7 @@ This project is for our class ece 434 embedded linux course for Rose-Hulman Inst
 
 ## Setting up Falcon and xLights
 
-Go to [this](https://markayoder.github.io/PRUCookbook/01case/case.html#case_rgb_matrix) link and go to section 1.4. This will describe how to properly install Falcon and xLights.
+Go to [this](https://markayoder.github.io/PRUCookbook/01case/case.html#case_rgb_matrix) link and go to section 1.4. This will describe how to properly install Falcon and xLights. For the already completed image that you can burn to the sd card right away is found here [SD Card](https://github.com/ObbyKing/ece434_linux/tree/master/finalProject/Install).
 
 Some specific settings for the 32x32 are here that are different from the instructions above.
 
