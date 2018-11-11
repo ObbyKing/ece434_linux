@@ -10,9 +10,9 @@ Go to [this](https://markayoder.github.io/PRUCookbook/01case/case.html#case_rgb_
 Some specific settings for the 32x32 are here that are different from the instructions above.
 
 Settings:
-* 
-* 
-* 
+
+* Single Panel Size (WxH): `32x32 1\16 Scan`
+* End Channel: 3072
 
 xLights is used to make the sequences that are displayed on the graduation cap.
 
