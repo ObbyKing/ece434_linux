@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
+  <head>
+    <version>2018.42</version>
+    <author/>
+    <author-email/>
+    <author-website/>
+    <song/>
+    <artist/>
+    <album/>
+    <MusicURL/>
+    <comment/>
+    <sequenceTiming>25 ms</sequenceTiming>
+    <sequenceType>Animation</sequenceType>
+    <mediaFile/>
+    <sequenceDuration>180.000</sequenceDuration>
+    <imageDir/>
+  </head>
+  <nextid>1</nextid>
+  <Jukebox/>
+  <ColorPalettes>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette7=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette4=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette4=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette5=1,C_CHECKBOX_Palette7=1</ColorPalette>
+  </ColorPalettes>
+  <EffectDB>
+    <Effect>E_CHECKBOX_Meteors_UseMusic=0,E_CHOICE_Meteors_Effect=Down,E_CHOICE_Meteors_Type=Range,E_SLIDER_Meteors_Count=24,E_SLIDER_Meteors_Length=17,E_SLIDER_Meteors_Speed=10,E_SLIDER_Meteors_Swirl_Intensity=0,E_TEXTCTRL_Meteors_XOffset=0,E_TEXTCTRL_Meteors_YOffset=0</Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=left,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=Use OS Fonts,E_FILEPICKERCTRL_Text_File=,E_FONTPICKER_Text_Font=Sans Bold 26,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=0,E_TEXTCTRL_Text=Happy Graduation!,E_TEXTCTRL_Text_Speed=11</Effect>
+    <Effect>E_CHOICE_Butterfly_Colors=Rainbow,E_CHOICE_Butterfly_Direction=Normal,E_SLIDER_Butterfly_Chunks=4,E_SLIDER_Butterfly_Skip=3,E_SLIDER_Butterfly_Speed=50,E_SLIDER_Butterfly_Style=7</Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=left,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=Use OS Fonts,E_FILEPICKERCTRL_Text_File=,E_FONTPICKER_Text_Font=Sans 20,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=0,E_TEXTCTRL_Text=What do you give an electrical engineer for their birthday? ------- Shorts,E_TEXTCTRL_Text_Speed=10</Effect>
+    <Effect>E_CHECKBOX_Faces_Outline=0,E_CHECKBOX_Faces_SuppressWhenNotSinging=0,E_CHECKBOX_Faces_TransparentBlack=0,E_CHOICE_Faces_Eyes=Auto,E_CHOICE_Faces_FaceDefinition=Default,E_CHOICE_Faces_Phoneme=L,E_TEXTCTRL_Faces_TransparentBlack=0</Effect>
+    <Effect>E_CHECKBOX_SynchroniseWithAudio=0,E_CHECKBOX_Video_AspectRatio=0,E_CHECKBOX_Video_TransparentBlack=0,E_CHOICE_Video_DurationTreatment=Loop,E_FILEPICKERCTRL_Video_Filename=/home/devon/Documents/Embedded-Linux-Yoder/ece434_linux/finalProject/Xlights Project/GIFS/jurassic park.mp4,E_TEXTCTRL_Duration=0:00.800,E_TEXTCTRL_Video_CropBottom=0,E_TEXTCTRL_Video_CropLeft=0,E_TEXTCTRL_Video_CropRight=100,E_TEXTCTRL_Video_CropTop=100,E_TEXTCTRL_Video_Starttime=0.00,E_TEXTCTRL_Video_TransparentBlack=0</Effect>
+    <Effect>E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=/home/devon/Documents/Embedded-Linux-Yoder/ece434_linux/finalProject/Xlights Project/GIFS/mushroom_mario.png,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=0,E_SLIDER_Pictures_EndScale=100,E_SLIDER_Pictures_StartScale=100,E_TEXTCTRL_Pictures_FrameRateAdj=1.0,E_TEXTCTRL_Pictures_Speed=1.0,E_TEXTCTRL_Pictures_TransparentBlack=0</Effect>
+    <Effect>E_CHECKBOX_ForkedLightning=0,E_CHOICE_Lightning_Direction=Up,E_SLIDER_Lightning_BOTX=0,E_SLIDER_Lightning_BOTY=0,E_SLIDER_Lightning_TopX=0,E_SLIDER_Lightning_TopY=0,E_SLIDER_Number_Bolts=13,E_SLIDER_Number_Segments=12</Effect>
+    <Effect>E_CHOICE_Tendril_Movement=Random,E_TEXTCTRL_Tendril_Dampening=10,E_TEXTCTRL_Tendril_Friction=10,E_TEXTCTRL_Tendril_Length=60,E_TEXTCTRL_Tendril_ManualX=0,E_TEXTCTRL_Tendril_ManualY=0,E_TEXTCTRL_Tendril_Speed=10,E_TEXTCTRL_Tendril_Tension=20,E_TEXTCTRL_Tendril_Thickness=1,E_TEXTCTRL_Tendril_Trails=1,E_TEXTCTRL_Tendril_TuneMovement=10,E_TEXTCTRL_Tendril_XOffset=0,E_TEXTCTRL_Tendril_YOffset=0</Effect>
+    <Effect>E_CHECKBOX_Pictures_PixelOffsets=0,E_CHECKBOX_Pictures_Shimmer=0,E_CHECKBOX_Pictures_TransparentBlack=0,E_CHECKBOX_Pictures_WrapX=0,E_CHOICE_Pictures_Direction=none,E_CHOICE_Scaling=No Scaling,E_FILEPICKER_Pictures_Filename=/home/devon/Documents/Embedded-Linux-Yoder/ece434_linux/finalProject/Xlights Project/GIFS/mario.png,E_SLIDER_PicturesXC=0,E_SLIDER_PicturesYC=0,E_SLIDER_Pictures_EndScale=100,E_SLIDER_Pictures_StartScale=100,E_TEXTCTRL_Pictures_FrameRateAdj=1.0,E_TEXTCTRL_Pictures_Speed=1.0,E_TEXTCTRL_Pictures_TransparentBlack=0</Effect>
+    <Effect>E_CHECKBOX_FIRETIMING=0,E_CHECKBOX_Fireworks_UseMusic=0,E_SLIDER_Fireworks_Count=50,E_SLIDER_Fireworks_Explosions=16,E_SLIDER_Fireworks_Fade=50,E_SLIDER_Fireworks_Velocity=2</Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=none,E_CHOICE_Text_Dir=left,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=Use OS Fonts,E_FILEPICKERCTRL_Text_File=,E_FONTPICKER_Text_Font=Sans 20,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=0,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=0,E_TEXTCTRL_Text=What did the electrical engineer say when he got shocked? ------ That Hertz,E_TEXTCTRL_Text_Speed=12</Effect>
+    <Effect>E_CHECKBOX_SynchroniseWithAudio=0,E_CHECKBOX_Video_AspectRatio=0,E_CHECKBOX_Video_TransparentBlack=0,E_CHOICE_Video_DurationTreatment=Loop,E_FILEPICKERCTRL_Video_Filename=/home/devon/Documents/Embedded-Linux-Yoder/ece434_linux/finalProject/Xlights Project/GIFS/pokeball.mp4,E_TEXTCTRL_Duration=0:00.700,E_TEXTCTRL_Video_CropBottom=0,E_TEXTCTRL_Video_CropLeft=0,E_TEXTCTRL_Video_CropRight=100,E_TEXTCTRL_Video_CropTop=100,E_TEXTCTRL_Video_Starttime=0.00,E_TEXTCTRL_Video_TransparentBlack=0</Effect>
+    <Effect>E_SLIDER_Life_Count=50,E_SLIDER_Life_Seed=0,E_SLIDER_Life_Speed=10</Effect>
+  </EffectDB>
+  <DataLayers>
+    <DataLayer lor_params="114" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="0" type="timing" name="New Timing" visible="1" views="Master View" active="1"/>
+    <Element collapsed="0" type="model" name="Matrix" visible="1"/>
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="New Timing">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Matrix">
+      <EffectLayer>
+        <Effect ref="0" name="Meteors" startTime="0" endTime="3900" palette="0"/>
+        <Effect ref="1" name="Text" id="1" startTime="3900" endTime="13500" palette="1"/>
+        <Effect ref="2" name="Butterfly" id="2" startTime="13500" endTime="30300" palette="1"/>
+        <Effect ref="3" name="Text" id="3" startTime="30400" endTime="53550" palette="1"/>
+        <Effect ref="4" name="Faces" id="4" startTime="53550" endTime="58700" palette="1"/>
+        <Effect ref="5" name="Video" id="5" startTime="58700" endTime="75600" palette="1"/>
+        <Effect ref="6" name="Pictures" id="6" startTime="75600" endTime="88650" palette="1"/>
+        <Effect ref="7" name="Lightning" id="7" startTime="88650" endTime="97800" palette="2"/>
+        <Effect ref="8" name="Tendril" id="8" startTime="97800" endTime="107100" palette="3"/>
+        <Effect ref="9" name="Pictures" id="9" startTime="107100" endTime="120150" palette="1"/>
+        <Effect ref="10" name="Fireworks" id="10" startTime="120150" endTime="126000" palette="1"/>
+        <Effect ref="11" name="Text" id="11" startTime="126000" endTime="150100" palette="1"/>
+        <Effect ref="12" name="Video" id="12" startTime="150250" endTime="164950" palette="1"/>
+        <Effect ref="13" name="Life" id="13" startTime="164950" endTime="180400" palette="1"/>
+      </EffectLayer>
+    </Element>
+  </ElementEffects>
+  <lastView>0</lastView>
+  <TimingTags>
+    <Tag number="0" position="-1"/>
+    <Tag number="1" position="-1"/>
+    <Tag number="2" position="-1"/>
+    <Tag number="3" position="-1"/>
+    <Tag number="4" position="-1"/>
+    <Tag number="5" position="-1"/>
+    <Tag number="6" position="-1"/>
+    <Tag number="7" position="-1"/>
+    <Tag number="8" position="-1"/>
+    <Tag number="9" position="-1"/>
+  </TimingTags>
+</xsequence>

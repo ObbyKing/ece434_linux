@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Networks computer="devon-VirtualBox">
+  <network ComPort="192.168.7.2" BaudRate="1" NetworkType="E131" Description="LED Graduation Cap" MaxChannels="512"/>
+  <network ComPort="192.168.7.2" BaudRate="2" NetworkType="E131" Description="LED Graduation Cap" MaxChannels="512"/>
+  <network ComPort="192.168.7.2" BaudRate="3" NetworkType="E131" Description="LED Graduation Cap" MaxChannels="512"/>
+  <network ComPort="192.168.7.2" BaudRate="4" NetworkType="E131" Description="LED Graduation Cap" MaxChannels="512"/>
+  <network ComPort="192.168.7.2" BaudRate="5" NetworkType="E131" Description="LED Graduation Cap" MaxChannels="512"/>
+  <network ComPort="192.168.7.2" BaudRate="6" NetworkType="E131" Description="LED Graduation Cap" MaxChannels="512"/>
+  <testpreset name="Test">
+    <channelr start="1" end="3072"/>
+  </testpreset>
+</Networks>
