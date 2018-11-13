@@ -43,4 +43,4 @@ PASS: falcon
 ```
 
 # WIFI Setup
-TODO: Insert more info later
+Go to the `Status\Control` -> `Network`. Click on the External and fill out the information.
