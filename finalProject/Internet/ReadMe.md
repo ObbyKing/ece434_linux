@@ -10,6 +10,9 @@ This folder is used for internet setup.
 # USB Over Ethernet
 If you need internet on your pocket beagle without wifi this is an option you have.
 
+Follow the instructions here to setup SSH on the pocket beagle and ensure that the settings are correct.
+(https://elinux.org/EBC_Exercise_06_Setting_Up_Wifi)
+
 Go to the directory `USB_Ethernet` and run the scripts like below:
 ```bash
 host$ ifconfig
