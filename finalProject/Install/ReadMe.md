@@ -4,7 +4,7 @@ This folder contains our image that will work with our project. The other instru
 * PBB_Falcon.zip - the compressed file of the image file of the sd card.
 
 # Install Current Image
-If you want to just use what we did this is how to install and setup the falcon. *You must have a minmum of 8 GB micro SD card to use though.
+If you want to just use what we did this is how to install and setup the falcon. **You must have a minmum of 8 GB micro SD card to use though.**
 
 ## Requirements
 We used win32diskimager to make and write the sd card image. It can be found here: [https://sourceforge.net/projects/win32diskimager/](https://sourceforge.net/projects/win32diskimager/).
